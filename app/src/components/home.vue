@@ -6,8 +6,8 @@
       <h1 style="color:blue; font-family: 'Avenir'; font-size:70px; position:absolute
       ; top:200px; ;left:100px; font-weight:800 "> Looking for a<br> Software developer ?</h1>
 
-      <img src="@/assets/pphp.png"  style=" width: 500px; text-align:center; 
-      margin:0px 50px 20px 800px">
+      <img src="@/assets/pphp.png"  style=" width: 700px; text-align:center; 
+      margin:40px 50px 20px 600px">
 
     </section>
     <br>
